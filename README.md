@@ -13,7 +13,7 @@ This tweak makes Spotify think you have a Premium subscription, granting free li
 
 ## Known Missing Features
 
-- **Spotify 9.1.6** - Custom Lryics, Custom Setting Menu
+- **Spotify 9.1.6** - Custom Lyrics
 
 ## How to build an EeveeSpotify IPA using Github actions
 > [!NOTE]
@@ -77,5 +77,7 @@ The tweak also sets `trackRowsEnabled` to `true`, allowing you to see track rows
 For sideloaded IPAs, we recommend using **Sideloadly** or certificate-based signing tools like **ksign** for best compatibility.
 
 To open Spotify links in sideloaded app, use [OpenSpotifySafariExtension](https://github.com/BillyCurtis/OpenSpotifySafariExtension). Remember to activate it and allow access in Settings > Safari > Extensions.
+
+## Donations
 
 
